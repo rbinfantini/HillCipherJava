@@ -8,9 +8,9 @@ VERSÃO ou DATA:
 12/05/2026
 
 AUTORES:
-Rafael Barros Infantini - RA00359394
-Pedro Henrique Freire - RA00359884
-Guilherme de Rivoredo - RA00359303
+Rafael Barros Infantini
+Pedro Henrique Freire
+Guilherme de Rivoredo
 
 DESCRIÇÃO DO PROJETO:
 Este projeto consiste em uma aplicação desenvolvida em Java (com interface gráfica utilizando a biblioteca Swing)
