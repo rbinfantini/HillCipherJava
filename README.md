@@ -1,24 +1,27 @@
-# Extensionista - Cifra de Hill
+# Extension Project - Hill Cipher
 
-**Versão / Data:** 12/05/2026
 
-## 🎯 Objetivo do Projeto
-Criar uma aplicação que pode criptografar ou descriptografar palavras.
 
-## 📝 Descrição do Projeto
-Este projeto consiste em uma aplicação desenvolvida em Java (com interface gráfica utilizando a biblioteca Swing) para demonstrar a aplicação prática de conceitos de Geometria Analítica e Álgebra Linear na área da Segurança da Informação. 
+## Project Objective
 
-A ferramenta implementa a Cifra de Hill, utilizando operações com matrizes 2x2 (multiplicação de matrizes por vetores e cálculo de matriz inversa em módulo 26) para encriptar e desencriptar blocos de texto.
+Create an application that can encrypt or decrypt words.
 
-O projeto foi desenvolvido como atividade extensionista para o curso de Ciência da Computação.
+## Project Description
 
-## 🚀 Como Executar
+This project is an application developed in Java (with a graphical interface using the Swing library) to demonstrate the practical application of Analytic Geometry and Linear Algebra concepts in the field of Information Security.
 
-1. Compile todas as classes no BlueJ.
-2. Clique com o botão direito na classe `AppCriptografia` e selecione `void main(String[] args)`.
-3. Insira a mensagem no campo de texto e clique em "Encriptar" ou "Desencriptar".
+The tool implements the Hill Cipher, using operations with 2x2 matrices (matrix-by-vector multiplication and inverse matrix calculation modulo 26) to encrypt and decrypt blocks of text.
 
-## 👥 Autores
+The project was developed as an extension activity for the Computer Science program.
+
+## How to Run
+
+1. Compile all the classes in BlueJ.
+2. Right-click the `AppCriptografia` class and select `void main(String[] args)`.
+3. Enter the message in the text field and click "Encriptar" or "Desencriptar".
+
+## Authors
+
 * Rafael Barros Infantini
 * Pedro Henrique Freire
 * Guilherme de Rivoredo
